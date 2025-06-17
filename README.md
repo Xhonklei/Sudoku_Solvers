@@ -4,20 +4,20 @@ This repository presents a project focused on implementing and testing two disti
 
 ## Repository Content
 
-1. **`Image_feature_extraction_and_matching.pdf`**  
-   A detailed report is provided, encompassing an analysis of each method, their respective implementations, and the resulting matches. The report also includes a comparative analysis between the methods, along with additional insights.
+1. **`Several_Sudoku_Solvers.pdf`**  
+   A detailed report is provided, including the implementation of each method and their results in solving various Sudoku puzzles. The report also includes a comparative analysis between the methods, along with additional insights.
 
-2. **`harris2.py`**  
-   A Python script implementing the Harris Corner Detector.
-
-3. **`TestHarrisCorners.ipynb`**  
-   A Jupyter Notebook for testing corner extraction using the Harris Corner Detector.
+2. **`DFS with backtracking.ipynb`**  
+   A Jupyter Notebook containing the implementation and tests of the DFS BF with backtracing (**without** heuristic optimizations).
    
-4. **`TestHarrisMatches.ipynb`**  
-   A Jupyter Notebook for testing the matching of similar features (Harris corners) between two images.
+3. **`CleverDFS.ipynb`**  
+   A Jupyter Notebook containing the implementation and tests of the DFS BF with backtracing (**with** heuristic optimizations).
 
-5. **`SIFT_matcher.ipynb`**  
-   A Jupyter Notebook containing the implementation of the SIFT Matcher and tests for matching similar features between two images.
+4. **`AlgorithmX.ipynb`**  
+   A Jupyter Notebook containing the implementation and tests of the Knuth's Algorithm X.
+   
+6. **`Comparisons.ipynb`**  
+   A Jupyter Notebook containing graphical comparisons of solving time and time complexity between the implemented Sudoku solvers.
 
 ## Suggested Workflow
 
