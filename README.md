@@ -7,7 +7,7 @@ This repository presents a project focused on implementing and testing two disti
 1. **`Several_Sudoku_Solvers.pdf`**  
    A detailed report is provided, including the implementation of each method and their results in solving various Sudoku puzzles. The report also includes a comparative analysis between the methods, along with additional insights.
 
-2. **`DFS with backtracking.ipynb`**  
+2. **`DFS_with_backtracking.ipynb`**  
    A Jupyter Notebook containing the implementation and tests of the DFS BF with backtracing (**without** heuristic optimizations).
    
 3. **`CleverDFS.ipynb`**  
